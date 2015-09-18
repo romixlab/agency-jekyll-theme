@@ -1,69 +1,42 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+#baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
+title: Colibri
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary: 3bbaff
+  secondary: 1373a6  
+  secondary-dark: 6cccff
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Владислав Лапин
   pic: 1
-  position: Lead Designer
+  position: Руководитель
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
+    - title: vk
+      url: http://vk.com/id117971555
+- name: Исайкин Роман
   pic: 2
-  position: Lead Marketer
+  position: Программист-электронщик
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: vk
+      url: http://vk.com/romixlab
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: vk
+    url: http://vk.com/colibri_avia
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/romixlab
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Москва
 
 # Build settings
 markdown: kramdown

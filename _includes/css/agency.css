@@ -299,8 +299,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 450px;
+        padding-bottom: 50px;
     }
 
     header .intro-text .intro-lead-in {
@@ -315,9 +315,10 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 75px;
+        font-size: 50px;
         font-weight: 700;
         line-height: 75px;
+        text-shadow: 0 0 0.3em #3bbaff;
     }
 }
 

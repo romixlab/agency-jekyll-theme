@@ -1,0 +1,11 @@
+- id: rootgallery
+  imageFolder: img/rootgallery
+  images:
+  - name: 1.jpg
+  	thumb: 1m.jpg
+  - name: 2.jpg
+  	thumb: 2m.jpg
+  - name: 3.jpg
+  	thumb: 3m.jpg
+  - name: 4.jpg
+  	thumb: 4m.jpg
