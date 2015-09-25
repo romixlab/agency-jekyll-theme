@@ -26,13 +26,13 @@ people:
   social:
     - title: vk
       url: http://vk.com/romixlab
+    - title: github
+      url: https://github.com/romixlab
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: vk
     url: http://vk.com/colibri_avia
-  - title: github
-    url: https://github.com/romixlab
 
 # Postal address (add as many lines as necessary)
 address:

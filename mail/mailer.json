@@ -1,0 +1,11 @@
+{
+	"auth": {
+        "user": "your email",
+        "pass": "password"
+    },
+    "mailoptions": {
+    	"from": "Роман Исайкин <roman@marsworks.ru>",
+    	"to": "someone@gmail.com",
+    	"subject": "New message from site"
+    }
+}
